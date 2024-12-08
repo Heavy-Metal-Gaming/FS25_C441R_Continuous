@@ -673,7 +673,7 @@
                 <animations fillAnimation="baleFillAnimation125" unloadAnimation="baleDropAnimation125" dropAnimationTime="5"/>
             </baleType> -->
         </baleTypes>
-        <buffer fillUnitIndex="4" capacityPercentage="0.95" overloadingDuration="0.1" balerDisplayType="ROUNDBALE" fillMainUnitAfterOverload="true">
+        <buffer fillUnitIndex="4" capacityPercentage="0.85" overloadingDuration="0.1" balerDisplayType="ROUNDBALE" fillMainUnitAfterOverload="true">
             <dummyBale node="bufferBaleNode" scaleComponents="0.708 0.708 0"/>
         </buffer>
         <automaticDrop enabled="true" toggleable="true"/>
