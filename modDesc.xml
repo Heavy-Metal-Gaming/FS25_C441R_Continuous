@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="93">
+    <author>Heavy Metal Gaming</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>John Deere C441R Continuous</en>
+        <de>John Deere C441R Dauerbetrieb</de>
+    </title>
+    <description>
+        <en>
+            <![CDATA[High speed modification of the C441R with a prechamber
+Price: 112.500 $
+Required power: 110 hp
+Max. working speed: 25 kph
+Bale and wrap 125 cm bales
+]]>
+        </en>
+        <de>
+            <![CDATA[Hochgeschwindigkeits Modifikation des C441R mit Vorkammer
+Preis: 112.500 $
+Benötigte Leistung: 110 hp
+Arbeitsgeschwindigkeit: 25 kph
+Kann Ballen mit einem Durchmesser von 125 cm pressen und verpacken
+]]>
+        </de>
+    </description>
+    <iconFilename>icon_C441R_Continuous.dds</iconFilename>
+    <multiplayer supported="true" />
+    <storeItems>
+        <storeItem xmlFilename="c441R.xml"/>
+    </storeItems>
+</modDesc>
